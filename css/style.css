@@ -138,12 +138,19 @@ img {
         align-items: center;
         overflow-x: auto;
     }
+
+    .lessons {
+        padding-bottom: 3rem;
+    }
+
     .lessons .col{
         width: 100%;
     }
+
     .container{
          width: 100%;
     } 
+
     .lessons .col img {
     min-height: 200px;
     width: 100%;
@@ -163,7 +170,7 @@ img {
     .why-us{
         background-color: black;
         margin: 0px;
-        padding: 2em 0px;
+        padding: 3rem 0px;
     }
     .why-us .li{
         margin: 0px;
