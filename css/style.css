@@ -149,12 +149,24 @@ img {
     width: 100%;
     }
 
+    .steps{
+        margin: 0px;
+    }
+
     .steps .col{
         width: 100%;
     }
     
     .why-us .col{
         width: 100%;
+    }
+    .why-us{
+        background-color: black;
+        margin: 0px;
+        padding: 2em 0px;
+    }
+    .why-us .li{
+        margin: 0px;
     }
 
 }
